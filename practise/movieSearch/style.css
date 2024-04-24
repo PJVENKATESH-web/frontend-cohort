@@ -1,0 +1,58 @@
+/* body{
+    margin: 0;
+    background-color: black;
+}
+
+.search{
+    width: 600px;
+    margin: 24px auto;
+    text-align: center;
+    display: flex;
+} 
+.movie-Search{
+    width: 78%;
+    padding: 12px;
+    box-sizing: border-box;
+    border: none;
+    background-color: rgb(43, 29, 29);
+    color: whitesmoke;
+}
+.movie-Search:focus{
+    outline: none;
+    border: none;
+}
+.btn{
+    width: 22%;
+    background-color: red;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+.container{
+    width: 600px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.content{
+    color: white;
+
+}
+.poster{
+    width: 230px;
+}
+.content p{
+    margin: 0 0 10px 0;
+    font-size: 16px;
+    color: antiquewhite;
+    font-weight: bolder;
+}
+span{
+    font-weight: lighter;
+    margin: 0 0 10px 0;
+    font-size: 15px;
+    color: rgb(129, 97, 60);
+}
+#title{
+    margin-top: 0;
+} */
