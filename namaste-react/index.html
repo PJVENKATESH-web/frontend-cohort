@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+    <h1>"Hello, I'm top of the Root</h1>
+    <div id="root">
+        <h1>"I'm the heading tag, created in html file</h1>
+
+        <!-- This is using basic html tag 
+        <h1>Hello World! Welcome to Javascript</h1>  -->
+    </div>
+    <h1>"Hello, I'm bottom of the Root</h1>
+    <!-- <script>
+        this is using js to show the hello world page 
+        const heading= document.createElement("h1");
+        heading.innerHTML="Hello World! Welcome to Javascript";
+
+        const root=document.getElementById("root");
+        root.appendChild(heading); 
+    </script>  -->
+    <!-- this is the CDN of react -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script> 
+    <!-- this is making hello world page using react-->
+    <!-- <script>
+        // this heading is to create an h1 element in React to make the content to display in browser
+        // createElement has 3 variables 1.tag,2.object,3.content to display
+        //React.createElement is comes in the core React.
+        const heading = React.createElement("h1",{},"Hello World, welcome to React!");
+        //here root is where all react code will run and ReactDOM will make you to create the root and make manipulation in the DOM using ReactDOM.createRoot()
+        //document.getElementById()-will help you to make the content at which place you need to display
+        const root = ReactDOM.createRoot(document.getElementById("root"));
+        //root.render()-will make the content to display in the browser.
+        root.render(heading);
+    </script> -->
+    <script src="app.js"></script>
+</body>
+</html>

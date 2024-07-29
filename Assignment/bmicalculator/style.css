@@ -1,0 +1,27 @@
+.body{
+    margin:0;
+    padding:0;
+}
+.bmi{
+    width: 30%;
+    margin:  200px auto;
+
+}
+.weight,.height{
+    width: 70%;
+    padding: 3%;
+    margin:1%;
+}
+span{
+    font-size: large;
+    font-weight: 600;
+}
+.calculate{
+    width: 100%;
+    padding: 2%;
+    background-color: #000;
+    border-radius: 1vw;
+    color: white;
+    font-size: 2vw;
+    cursor: pointer;
+}

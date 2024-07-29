@@ -1,0 +1,21 @@
+.card{
+    width: 480px;
+    height: 240px;
+    background-color: rgb(222, 203, 203);
+    color: rgb(13, 47, 78);
+    margin: 300px auto;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.card h2{
+    font-size: 24px;
+}
+.cashew{
+    position: absolute;
+    width: 154px;    
+    mix-blend-mode: multiply;
+    right: 0;
+    bottom: 0;
+}
