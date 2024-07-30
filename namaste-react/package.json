@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "\"I am creating a react app with the help of npm and blunders which is parcel\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PJVENKATESH-web/frontend-cohort.git"
+  },
+  "author": "Jhonson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PJVENKATESH-web/frontend-cohort/issues"
+  },
+  "homepage": "https://github.com/PJVENKATESH-web/frontend-cohort#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
