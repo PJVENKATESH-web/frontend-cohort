@@ -1,0 +1,18 @@
+    # PARCEL
+    - Dev Build
+    - local server
+    - HMR = HOT MODULE REPLACEMENT
+    - Parcel using the FILE WATCHER algorithm- written in C++.
+    - Caching - Fastest Builds - as you make code changes and save, the build time reduces as Parcel uses caching and make the build in less time
+    -.parcel-cache have the files that is in binary and supporting the HMR and next builds get reduced.
+    - image optimization
+    - Minification
+    - Bundling
+    - Compressing
+    - Consistent Hashing
+    - Code splitting for us
+    - Differential bundling- Support old version - means when my app is hosted, my parcel can be opened in all types of versions of a particular browser. So the parcel will take care to use particular libraries to give smooth experience
+    - Diagnostic
+    - Error Handling
+    - parcel can help us to host our app in HTTPS
+    - Tree shaking- remove unused code 
