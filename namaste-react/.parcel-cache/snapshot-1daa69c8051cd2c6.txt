@@ -1,7 +1,7 @@
-6000
+6004
 58C:\Users\user\Desktop\frontend-cohort\namaste-react\app.js133672407095628366 0
 94C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\csso\lib\restructure\index.js133672187991438420 0
-64C:\Users\user\Desktop\frontend-cohort\namaste-react\package.json133672433353463422 0
+64C:\Users\user\Desktop\frontend-cohort\namaste-react\package.json133673483274775757 0
 132C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133672188021387911 0
 94C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\css-tree\cjs\utils\string.cjs133672187994912201 0
 108C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@swc\helpers\cjs\_sliced_to_array_loose.cjs133672187990500692 0
@@ -30,11 +30,11 @@
 82C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\svgo\lib\style.js133672187985012804 0
 94C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\css-select\lib\index.d.ts.map133672187988304214 0
 89C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@swc\helpers\_\_inherits133672188004230814 1
-62C:\Users\user\Desktop\frontend-cohort\namaste-react\.gitignore133668301522889482 0
+62C:\Users\user\Desktop\frontend-cohort\namaste-react\.gitignore133673455329646435 0
 74C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\env-paths133672187975601542 1
 114C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\data133672187997586158 1
 104C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@parcel\transformer-babel\src\config.js133672187980165020 0
-56C:\Users\user\Desktop\frontend-cohort\namaste-react\dist133672433463647732 1
+56C:\Users\user\Desktop\frontend-cohort\namaste-react\dist133673483529088867 1
 72C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\is-glob133672187974112049 1
 91C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\csso\lib\replace\Number.js133672187991906957 0
 105C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\react-dom\cjs\react-dom.profiling.min.js133672187991438420 0
@@ -1089,6 +1089,7 @@
 115C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\caniuse-lite\data\features\background-clip-text.js133672192559462405 0
 92C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\svgo\plugins\removeAttrs.js133672187990500692 0
 90C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\htmlnano\docs\sidebars.js133672187986897959 0
+75C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.6b9bf2e9.css133673483528928831 0
 122C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\supports.cjs133672187993938561 0
 95C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\svgo\plugins\removeComments.js133672187990500692 0
 87C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\escalade\sync\index.js133672187973460995 0
@@ -2144,7 +2145,7 @@
 83C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\lmdb\dict\dict.txt133672187999979973 0
 84C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\lmdb\dict\dict2.txt133672188000136199 0
 112C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@swc\helpers\esm\_class_apply_descriptor_set.js133672187993469560 0
-79C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.3a01df49.css.map133672405633576281 0
+79C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.3a01df49.css.map133673454038768155 0
 132C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@swc\helpers\_\_class_static_private_field_destructure\package.json133672188002824567 0
 102C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\caniuse-lite\data\features\css-has.js133672192561894007 0
 96C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@swc\helpers\esm\_instanceof.js133672187996805034 0
@@ -2178,6 +2179,7 @@
 112C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133672187999350472 0
 98C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\css-select\lib\esm\compile.js.map133672187987366723 0
 112C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@swc\helpers\cjs\_class_private_method_init.cjs133672187985960551 0
+79C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.6b9bf2e9.css.map133673483529068811 0
 121C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133672187971295264 0
 122C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133672187978592106 0
 115C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\caniuse-lite\data\features\document-execcommand.js133672192564469065 0
@@ -2315,7 +2317,7 @@
 107C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\json-parse-even-better-errors\CHANGELOG.md133672187972783021 0
 136C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertStyleToAttrs.js133672187984856529 0
 103C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\json-parse-even-better-errors\index.js133672187969971351 0
-74C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.5baa4167.js133672407097143417 0
+74C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.5baa4167.js133673454040542129 0
 97C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@parcel\utils\src\escape-html.js133672187984075190 0
 105C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\json-parse-even-better-errors\LICENSE.md133672187974440670 0
 103C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@swc\helpers\cjs\_write_only_error.cjs133672187992063341 0
@@ -4374,7 +4376,7 @@
 99C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\caniuse-lite\data\features\opus.js133672192572348756 0
 102C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\caniuse-lite\data\features\outline.js133672192572427270 0
 109C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\caniuse-lite\data\features\pagevisibility.js133672192572517254 0
-78C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.5baa4167.js.map133672407097293416 0
+78C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.5baa4167.js.map133673454040821985 0
 95C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\@parcel\cache\lib\constants.js133672187971944915 0
 103C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\caniuse-lite\data\features\passkeys.js133672192572547216 0
 108C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\caniuse-lite\data\features\passwordrules.js133672192572573638 0
@@ -5990,12 +5992,14 @@
 96C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\.bin\update-browserslist-db.cmd133672188021544132 0
 96C:\Users\user\Desktop\frontend-cohort\namaste-react\node_modules\.bin\update-browserslist-db.ps1133672188021387911 0
 72C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\app.c328ef1a.js133672188134441075 0
-75C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.3a01df49.css133672405633496440 0
+75C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.3a01df49.css133673454038658211 0
 78C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.6aceab6d.js.map133672433463617789 0
 78C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.7c0ccee6.js.map133668690216523917 0
+74C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.a9fa6215.js133673483528939214 0
+78C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.a9fa6215.js.map133673483529078824 0
 75C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.ad248605.css133672433463487793 0
 79C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.ad248605.css.map133672433463617789 0
-67C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.html133672433463487793 0
+67C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\index.html133673483528928831 0
 75C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\style.e308ff8e.css133672188133657969 0
 79C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\style.e308ff8e.css.map133672188136364230 0
 78C:\Users\user\Desktop\frontend-cohort\namaste-react\dist\style.e308ff8e.js.map133672188136261637 0

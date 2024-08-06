@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "\"I am creating a react app with the help of npm and blunders which is parcel\"",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {

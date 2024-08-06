@@ -1,41 +1,15 @@
-    // const heading = React.createElement(
-    //     "h1",
-    //     {id: "heading"},
-    //     "Welcome to React!"
-    // );
-    // 
-
-    // parent with 1 child and 2 sub-children
-    // const parent = React.createElement(
-    //     "div",
-    //     {id: "parent"},
-    //     React.createElement(
-    //         "div",
-    //         {id:"child"},
-    //         [React.createElement("h1",{},"I'm 1st Child"),
-    //          React.createElement("h2",{},"I'm 2nd Child")
-    //         ]
-    //     )
-    // );
-
-    import React from "react";
-    import ReactDOM from "react-dom/client"; 
+import React from "react";
+import ReactDOM from "react-dom/client"; 
 
 
-    const parent = React.createElement(
-        "div",
-        {id: "parent"},
-        [React.createElement("div",{id:"child"},
-            [React.createElement("h1",{},"This is Namaste React🚀 "),
-             React.createElement("h2",{},"I'm 1st Child")
-            ]
-        ),
-        React.createElement("div",{id:"child2"},
-            [React.createElement("h1",{},"I'm 2nd Child"),
-             React.createElement("h2",{},"I'm 2nd Child")
-            ]
-        )
-    ]
-    );
-    const root = ReactDOM.createRoot(document.getElementById("root"));
-    root.render(parent);
+//React.createElement => Object =>HTMLELEMENT(render)
+const heading= React.createElement("h1",{id: "heading"},"Namaste React 🚀");
+console.log(heading)
+
+const root= ReactDOM.createRoot(document.getElementById("root"));
+root.render(heading)
+
+
+// JSX - is not HTML inside JAVASCRIPT- its look like xml,html syntax
+const jsxHeading = <h1>Namaste React using JSX 🚀 </h1>
+console.log(jsxHeading);
